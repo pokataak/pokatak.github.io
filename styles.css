@@ -1,3 +1,15 @@
-main {
-  background-color: rgb(185, 179, 179);
+body {
+  background-color: rgb(233, 228, 228);
+}
+
+.profile {
+  width: 250px;
+  border-bottom: 1px solid black;
+  
+  margin: auto;
+}
+
+.skills {
+  width: 250px;
+  margin: auto;
 }
